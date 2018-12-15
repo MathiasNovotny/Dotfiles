@@ -1,0 +1,8 @@
+command=/usr/lib/i3blocks/$BLOCK_NAME
+separator_block_width=15
+markup=none
+
+[date]
+label=
+command=i3date
+interval=1
